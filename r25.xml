@@ -334,7 +334,7 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#202020"
-            inner="#2b2b2bff"
+            inner="#1d1d1dff"
             inner_sel="#2b2b2bff"
             item="#2d2d2dff"
             text="#989898"
